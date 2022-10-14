@@ -1,0 +1,27 @@
+{
+  "name": "arkad-simulator-starter-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node solve.ts",
+    "solve": "ts-node solve.ts",
+    "run": "ts-node solve.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noahmayarkad-simulator-starter-ts.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noahmay/arkad-simulator-starter-ts/issues"
+  },
+  "homepage": "https://github.com/noahmay/arkad-simulator-starter-ts#readme",
+  "devDependencies": {
+    "@types/node": "^18.8.4",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.4"
+  }
+}
