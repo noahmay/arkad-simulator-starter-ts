@@ -21,7 +21,7 @@ type Company = {
 type Companies = Record<CompanyId, Company>;
 
 const TIME_BUDGET = 4500;
-const STARTING_COMPANY_ID: CompanyId = "company25";
+const STARTING_COMPANY_ID: CompanyId = "company10";
 
 let currentCompany = STARTING_COMPANY_ID;
 let timeLeft = TIME_BUDGET;
