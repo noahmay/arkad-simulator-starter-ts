@@ -65,343 +65,341 @@
   },
   "relationships": {
     "company45": [
-      { "to": "company46", "timePrice": 670 },
-      { "to": "company53", "timePrice": 370 },
-      { "to": "company61", "timePrice": 850 }
+      { "to": "company46", "timePrice": 67 },
+      { "to": "company53", "timePrice": 37 },
+      { "to": "company61", "timePrice": 85 }
     ],
     "company46": [
-      { "to": "company45", "timePrice": 670 },
-      { "to": "company53", "timePrice": 450 },
-      { "to": "company47", "timePrice": 360 }
+      { "to": "company45", "timePrice": 67 },
+      { "to": "company53", "timePrice": 45 },
+      { "to": "company47", "timePrice": 36 }
     ],
     "company53": [
-      { "to": "company46", "timePrice": 450 },
-      { "to": "company45", "timePrice": 370 },
-      { "to": "company47", "timePrice": 530 }
+      { "to": "company46", "timePrice": 45 },
+      { "to": "company45", "timePrice": 37 },
+      { "to": "company47", "timePrice": 53 }
     ],
     "company47": [
-      { "to": "company46", "timePrice": 360 },
-      { "to": "company48", "timePrice": 390 },
-      { "to": "company51", "timePrice": 570 },
-      { "to": "company53", "timePrice": 530 }
+      { "to": "company46", "timePrice": 36 },
+      { "to": "company48", "timePrice": 39 },
+      { "to": "company51", "timePrice": 57 },
+      { "to": "company53", "timePrice": 53 }
     ],
     "company48": [
-      { "to": "company47", "timePrice": 390 },
-      { "to": "company49", "timePrice": 370 },
-      { "to": "company50", "timePrice": 740 },
-      { "to": "company51", "timePrice": 790 }
+      { "to": "company47", "timePrice": 39 },
+      { "to": "company49", "timePrice": 37 },
+      { "to": "company50", "timePrice": 74 },
+      { "to": "company51", "timePrice": 79 }
     ],
     "company49": [
-      { "to": "company48", "timePrice": 370 },
-      { "to": "company50", "timePrice": 600 }
+      { "to": "company48", "timePrice": 37 },
+      { "to": "company50", "timePrice": 60 }
     ],
     "company50": [
-      { "to": "company49", "timePrice": 600 },
-      { "to": "company51", "timePrice": 1230 },
-      { "to": "company48", "timePrice": 740 }
+      { "to": "company49", "timePrice": 60 },
+      { "to": "company51", "timePrice": 123 },
+      { "to": "company48", "timePrice": 74 }
     ],
     "company51": [
-      { "to": "company50", "timePrice": 1230 },
-      { "to": "company47", "timePrice": 570 },
-      { "to": "company48", "timePrice": 790 },
-      { "to": "company59", "timePrice": 470 }
+      { "to": "company50", "timePrice": 123 },
+      { "to": "company47", "timePrice": 57 },
+      { "to": "company48", "timePrice": 79 },
+      { "to": "company59", "timePrice": 47 }
     ],
     "company61": [
-      { "to": "company45", "timePrice": 850 },
-      { "to": "company12", "timePrice": 520 },
-      { "to": "company13", "timePrice": 530 },
-      { "to": "company14", "timePrice": 800 },
-      { "to": "company11", "timePrice": 710 },
-      { "to": "company42", "timePrice": 1750 }
+      { "to": "company45", "timePrice": 85 },
+      { "to": "company12", "timePrice": 52 },
+      { "to": "company13", "timePrice": 53 },
+      { "to": "company14", "timePrice": 80 },
+      { "to": "company11", "timePrice": 71 },
+      { "to": "company42", "timePrice": 175 }
     ],
     "company12": [
-      { "to": "company61", "timePrice": 520 },
-      { "to": "company5", "timePrice": 410 },
-      { "to": "company13", "timePrice": 290 }
+      { "to": "company61", "timePrice": 52 },
+      { "to": "company5", "timePrice": 41 },
+      { "to": "company13", "timePrice": 29 }
     ],
     "company13": [
-      { "to": "company61", "timePrice": 530 },
-      { "to": "company5", "timePrice": 550 },
-      { "to": "company14", "timePrice": 350 },
-      { "to": "company12", "timePrice": 290 }
+      { "to": "company61", "timePrice": 53 },
+      { "to": "company5", "timePrice": 55 },
+      { "to": "company14", "timePrice": 35 },
+      { "to": "company12", "timePrice": 29 }
     ],
     "company14": [
-      { "to": "company61", "timePrice": 800 },
-      { "to": "company13", "timePrice": 350 },
-      { "to": "company6", "timePrice": 450 },
-      { "to": "company18", "timePrice": 260 },
-      { "to": "company17", "timePrice": 330 },
-      { "to": "company41", "timePrice": 1070 }
+      { "to": "company61", "timePrice": 80 },
+      { "to": "company13", "timePrice": 35 },
+      { "to": "company6", "timePrice": 45 },
+      { "to": "company18", "timePrice": 26 },
+      { "to": "company17", "timePrice": 33 },
+      { "to": "company41", "timePrice": 107 }
     ],
     "company11": [
-      { "to": "company61", "timePrice": 710 },
-      { "to": "company56", "timePrice": 300 }
+      { "to": "company61", "timePrice": 71 },
+      { "to": "company56", "timePrice": 30 }
     ],
     "company42": [
-      { "to": "company61", "timePrice": 1750 },
-      { "to": "company41", "timePrice": 310 },
-      { "to": "company54", "timePrice": 390 }
+      { "to": "company61", "timePrice": 175 },
+      { "to": "company41", "timePrice": 31 },
+      { "to": "company54", "timePrice": 39 }
     ],
     "company59": [
-      { "to": "company51", "timePrice": 470 },
-      { "to": "company1", "timePrice": 400 },
-      { "to": "company2", "timePrice": 760 },
-      { "to": "company3", "timePrice": 890 },
-      { "to": "company57", "timePrice": 1080 }
+      { "to": "company51", "timePrice": 47 },
+      { "to": "company1", "timePrice": 40 },
+      { "to": "company2", "timePrice": 76 },
+      { "to": "company3", "timePrice": 89 },
+      { "to": "company57", "timePrice": 108 }
     ],
     "company1": [
-      { "to": "company59", "timePrice": 400 },
-      { "to": "company0", "timePrice": 140 }
+      { "to": "company59", "timePrice": 40 },
+      { "to": "company0", "timePrice": 14 }
     ],
-    "company0": [{ "to": "company1", "timePrice": 140 }],
+    "company0": [{ "to": "company1", "timePrice": 14 }],
     "company2": [
-      { "to": "company59", "timePrice": 760 },
-      { "to": "company3", "timePrice": 350 },
-      { "to": "company31", "timePrice": 350 }
+      { "to": "company59", "timePrice": 76 },
+      { "to": "company3", "timePrice": 35 }
     ],
     "company3": [
-      { "to": "company2", "timePrice": 350 },
-      { "to": "company57", "timePrice": 730 },
-      { "to": "company59", "timePrice": 890 },
-      { "to": "company31", "timePrice": 1110 }
+      { "to": "company2", "timePrice": 35 },
+      { "to": "company57", "timePrice": 73 },
+      { "to": "company59", "timePrice": 89 },
+      { "to": "company31", "timePrice": 111 }
     ],
     "company57": [
-      { "to": "company3", "timePrice": 730 },
-      { "to": "company59", "timePrice": 1080 },
-      { "to": "company9", "timePrice": 490 },
-      { "to": "company8", "timePrice": 530 },
-      { "to": "company4", "timePrice": 600 },
-      { "to": "company56", "timePrice": 740 },
-      { "to": "company22", "timePrice": 580 },
-      { "to": "company21", "timePrice": 610 },
-      { "to": "company29", "timePrice": 1090 }
+      { "to": "company3", "timePrice": 73 },
+      { "to": "company59", "timePrice": 108 },
+      { "to": "company9", "timePrice": 49 },
+      { "to": "company8", "timePrice": 53 },
+      { "to": "company4", "timePrice": 60 },
+      { "to": "company56", "timePrice": 74 },
+      { "to": "company22", "timePrice": 58 },
+      { "to": "company21", "timePrice": 61 },
+      { "to": "company29", "timePrice": 109 }
     ],
     "company9": [
-      { "to": "company57", "timePrice": 490 },
-      { "to": "company4", "timePrice": 350 },
-      { "to": "company8", "timePrice": 190 },
-      { "to": "company5", "timePrice": 270 },
-      { "to": "company10", "timePrice": 180 }
+      { "to": "company57", "timePrice": 49 },
+      { "to": "company4", "timePrice": 35 },
+      { "to": "company8", "timePrice": 19 },
+      { "to": "company5", "timePrice": 27 },
+      { "to": "company10", "timePrice": 18 }
     ],
     "company8": [
-      { "to": "company57", "timePrice": 530 },
-      { "to": "company9", "timePrice": 190 },
-      { "to": "company10", "timePrice": 130 },
-      { "to": "company7", "timePrice": 410 },
-      { "to": "company6", "timePrice": 250 }
+      { "to": "company57", "timePrice": 53 },
+      { "to": "company9", "timePrice": 19 },
+      { "to": "company10", "timePrice": 13 },
+      { "to": "company7", "timePrice": 41 },
+      { "to": "company6", "timePrice": 25 }
     ],
     "company4": [
-      { "to": "company57", "timePrice": 600 },
-      { "to": "company56", "timePrice": 170 },
-      { "to": "company9", "timePrice": 350 },
-      { "to": "company5", "timePrice": 180 }
+      { "to": "company57", "timePrice": 60 },
+      { "to": "company56", "timePrice": 17 },
+      { "to": "company9", "timePrice": 35 },
+      { "to": "company5", "timePrice": 18 }
     ],
     "company56": [
-      { "to": "company57", "timePrice": 740 },
-      { "to": "company4", "timePrice": 170 },
-      { "to": "company11", "timePrice": 300 }
+      { "to": "company57", "timePrice": 74 },
+      { "to": "company4", "timePrice": 17 },
+      { "to": "company11", "timePrice": 30 }
     ],
     "company5": [
-      { "to": "company4", "timePrice": 180 },
-      { "to": "company9", "timePrice": 270 },
-      { "to": "company10", "timePrice": 290 },
-      { "to": "company12", "timePrice": 410 },
-      { "to": "company13", "timePrice": 550 }
+      { "to": "company4", "timePrice": 18 },
+      { "to": "company9", "timePrice": 27 },
+      { "to": "company10", "timePrice": 29 },
+      { "to": "company12", "timePrice": 41 },
+      { "to": "company13", "timePrice": 55 }
     ],
     "company10": [
-      { "to": "company5", "timePrice": 290 },
-      { "to": "company8", "timePrice": 130 },
-      { "to": "company9", "timePrice": 180 },
-      { "to": "company6", "timePrice": 240 }
+      { "to": "company5", "timePrice": 29 },
+      { "to": "company8", "timePrice": 13 },
+      { "to": "company9", "timePrice": 18 },
+      { "to": "company6", "timePrice": 24 }
     ],
     "company6": [
-      { "to": "company10", "timePrice": 240 },
-      { "to": "company8", "timePrice": 250 },
-      { "to": "company7", "timePrice": 220 },
-      { "to": "company14", "timePrice": 450 }
+      { "to": "company10", "timePrice": 24 },
+      { "to": "company8", "timePrice": 25 },
+      { "to": "company7", "timePrice": 22 },
+      { "to": "company14", "timePrice": 45 }
     ],
     "company7": [
-      { "to": "company8", "timePrice": 410 },
-      { "to": "company6", "timePrice": 220 },
-      { "to": "company17", "timePrice": 260 },
-      { "to": "company15", "timePrice": 290 }
+      { "to": "company8", "timePrice": 41 },
+      { "to": "company6", "timePrice": 22 },
+      { "to": "company17", "timePrice": 26 },
+      { "to": "company15", "timePrice": 29 }
     ],
     "company17": [
-      { "to": "company7", "timePrice": 260 },
-      { "to": "company18", "timePrice": 120 },
-      { "to": "company14", "timePrice": 330 },
-      { "to": "company16", "timePrice": 200 }
+      { "to": "company7", "timePrice": 26 },
+      { "to": "company18", "timePrice": 12 },
+      { "to": "company14", "timePrice": 33 },
+      { "to": "company16", "timePrice": 20 }
     ],
     "company15": [
-      { "to": "company7", "timePrice": 290 },
-      { "to": "company18", "timePrice": 260 },
-      { "to": "company16", "timePrice": 180 }
+      { "to": "company7", "timePrice": 29 },
+      { "to": "company18", "timePrice": 26 },
+      { "to": "company16", "timePrice": 18 }
     ],
     "company18": [
-      { "to": "company17", "timePrice": 120 },
-      { "to": "company14", "timePrice": 260 },
-      { "to": "company15", "timePrice": 260 }
+      { "to": "company17", "timePrice": 12 },
+      { "to": "company14", "timePrice": 26 },
+      { "to": "company15", "timePrice": 26 }
     ],
     "company16": [
-      { "to": "company15", "timePrice": 180 },
-      { "to": "company17", "timePrice": 200 }
+      { "to": "company15", "timePrice": 18 },
+      { "to": "company17", "timePrice": 20 }
     ],
     "company22": [
-      { "to": "company57", "timePrice": 580 },
-      { "to": "company23", "timePrice": 100 },
-      { "to": "company21", "timePrice": 180 }
+      { "to": "company57", "timePrice": 58 },
+      { "to": "company23", "timePrice": 10 },
+      { "to": "company21", "timePrice": 18 }
     ],
     "company21": [
-      { "to": "company57", "timePrice": 610 },
-      { "to": "company20", "timePrice": 170 },
-      { "to": "company22", "timePrice": 180 }
+      { "to": "company57", "timePrice": 61 },
+      { "to": "company20", "timePrice": 17 },
+      { "to": "company22", "timePrice": 18 }
     ],
     "company23": [
-      { "to": "company22", "timePrice": 100 },
-      { "to": "company24", "timePrice": 150 },
-      { "to": "company25", "timePrice": 230 },
-      { "to": "company19", "timePrice": 270 },
-      { "to": "company20", "timePrice": 370 }
+      { "to": "company22", "timePrice": 10 },
+      { "to": "company24", "timePrice": 15 },
+      { "to": "company25", "timePrice": 23 },
+      { "to": "company19", "timePrice": 27 },
+      { "to": "company20", "timePrice": 37 }
     ],
     "company20": [
-      { "to": "company21", "timePrice": 170 },
-      { "to": "company19", "timePrice": 130 },
-      { "to": "company23", "timePrice": 370 }
+      { "to": "company21", "timePrice": 17 },
+      { "to": "company19", "timePrice": 13 },
+      { "to": "company23", "timePrice": 37 }
     ],
     "company19": [
-      { "to": "company20", "timePrice": 130 },
-      { "to": "company25", "timePrice": 120 },
-      { "to": "company23", "timePrice": 270 }
+      { "to": "company20", "timePrice": 13 },
+      { "to": "company25", "timePrice": 12 },
+      { "to": "company23", "timePrice": 27 }
     ],
     "company25": [
-      { "to": "company19", "timePrice": 120 },
-      { "to": "company24", "timePrice": 160 },
-      { "to": "company23", "timePrice": 230 },
-      { "to": "company36", "timePrice": 730 },
-      { "to": "company44", "timePrice": 1430 },
-      { "to": "company60", "timePrice": 890 }
+      { "to": "company19", "timePrice": 12 },
+      { "to": "company24", "timePrice": 16 },
+      { "to": "company23", "timePrice": 23 },
+      { "to": "company36", "timePrice": 73 },
+      { "to": "company44", "timePrice": 143 },
+      { "to": "company60", "timePrice": 89 }
     ],
     "company24": [
-      { "to": "company25", "timePrice": 160 },
-      { "to": "company23", "timePrice": 150 }
+      { "to": "company25", "timePrice": 16 },
+      { "to": "company23", "timePrice": 15 }
     ],
     "company36": [
-      { "to": "company25", "timePrice": 730 },
-      { "to": "company37", "timePrice": 280 },
-      { "to": "company39", "timePrice": 270 }
+      { "to": "company25", "timePrice": 73 },
+      { "to": "company37", "timePrice": 28 },
+      { "to": "company39", "timePrice": 27 }
     ],
     "company37": [
-      { "to": "company36", "timePrice": 280 },
-      { "to": "company39", "timePrice": 260 },
-      { "to": "company38", "timePrice": 680 },
-      { "to": "company44", "timePrice": 1050 }
+      { "to": "company36", "timePrice": 28 },
+      { "to": "company39", "timePrice": 26 },
+      { "to": "company38", "timePrice": 68 },
+      { "to": "company44", "timePrice": 105 }
     ],
     "company39": [
-      { "to": "company37", "timePrice": 260 },
-      { "to": "company38", "timePrice": 660 },
-      { "to": "company36", "timePrice": 270 },
-      { "to": "company60", "timePrice": 900 }
+      { "to": "company37", "timePrice": 26 },
+      { "to": "company38", "timePrice": 66 },
+      { "to": "company36", "timePrice": 27 },
+      { "to": "company60", "timePrice": 90 }
     ],
     "company38": [
-      { "to": "company39", "timePrice": 660 },
-      { "to": "company52", "timePrice": 1200 },
-      { "to": "company37", "timePrice": 680 }
+      { "to": "company39", "timePrice": 66 },
+      { "to": "company52", "timePrice": 120 },
+      { "to": "company37", "timePrice": 68 }
     ],
     "company52": [
-      { "to": "company38", "timePrice": 1200 },
-      { "to": "company44", "timePrice": 440 },
-      { "to": "company40", "timePrice": 460 }
+      { "to": "company38", "timePrice": 120 },
+      { "to": "company44", "timePrice": 44 },
+      { "to": "company40", "timePrice": 46 }
     ],
     "company44": [
-      { "to": "company44", "timePrice": 20 },
-      { "to": "company37", "timePrice": 1050 },
-      { "to": "company52", "timePrice": 440 },
-      { "to": "company25", "timePrice": 1430 },
-      { "to": "company41", "timePrice": 610 },
-      { "to": "company55", "timePrice": 500 }
+      { "to": "company44", "timePrice": 2 },
+      { "to": "company37", "timePrice": 105 },
+      { "to": "company52", "timePrice": 44 },
+      { "to": "company25", "timePrice": 143 },
+      { "to": "company41", "timePrice": 61 },
+      { "to": "company55", "timePrice": 50 }
     ],
     "company41": [
-      { "to": "company44", "timePrice": 610 },
-      { "to": "company42", "timePrice": 310 },
-      { "to": "company14", "timePrice": 1070 }
+      { "to": "company44", "timePrice": 61 },
+      { "to": "company42", "timePrice": 31 },
+      { "to": "company14", "timePrice": 107 }
     ],
     "company55": [
-      { "to": "company44", "timePrice": 500 },
-      { "to": "company43", "timePrice": 320 },
-      { "to": "company54", "timePrice": 380 }
+      { "to": "company44", "timePrice": 50 },
+      { "to": "company43", "timePrice": 32 },
+      { "to": "company54", "timePrice": 38 }
     ],
     "company40": [
-      { "to": "company52", "timePrice": 460 },
-      { "to": "company43", "timePrice": 530 }
+      { "to": "company52", "timePrice": 46 },
+      { "to": "company43", "timePrice": 53 }
     ],
     "company43": [
-      { "to": "company40", "timePrice": 530 },
-      { "to": "company55", "timePrice": 320 }
+      { "to": "company40", "timePrice": 53 },
+      { "to": "company55", "timePrice": 32 }
     ],
     "company54": [
-      { "to": "company55", "timePrice": 380 },
-      { "to": "company42", "timePrice": 390 }
+      { "to": "company55", "timePrice": 38 },
+      { "to": "company42", "timePrice": 39 }
     ],
     "company29": [
-      { "to": "company57", "timePrice": 1090 },
-      { "to": "company28", "timePrice": 250 },
-      { "to": "company27", "timePrice": 370 }
+      { "to": "company57", "timePrice": 109 },
+      { "to": "company28", "timePrice": 25 },
+      { "to": "company27", "timePrice": 37 }
     ],
     "company28": [
-      { "to": "company29", "timePrice": 250 },
-      { "to": "company26", "timePrice": 450 },
-      { "to": "company27", "timePrice": 200 },
-      { "to": "company32", "timePrice": 420 },
-      { "to": "company28", "timePrice": 180 },
-      { "to": "company31", "timePrice": 870 }
+      { "to": "company29", "timePrice": 25 },
+      { "to": "company26", "timePrice": 45 },
+      { "to": "company27", "timePrice": 20 },
+      { "to": "company32", "timePrice": 42 },
+      { "to": "company28", "timePrice": 18 },
+      { "to": "company31", "timePrice": 87 }
     ],
     "company26": [
-      { "to": "company28", "timePrice": 450 },
-      { "to": "company27", "timePrice": 360 },
-      { "to": "company60", "timePrice": 730 }
+      { "to": "company28", "timePrice": 45 },
+      { "to": "company27", "timePrice": 36 },
+      { "to": "company60", "timePrice": 73 }
     ],
     "company27": [
-      { "to": "company26", "timePrice": 360 },
-      { "to": "company28", "timePrice": 200 },
-      { "to": "company29", "timePrice": 370 }
+      { "to": "company26", "timePrice": 36 },
+      { "to": "company28", "timePrice": 20 },
+      { "to": "company29", "timePrice": 37 }
     ],
     "company32": [
-      { "to": "company28", "timePrice": 420 },
-      { "to": "company33", "timePrice": 420 },
-      { "to": "company34", "timePrice": 250 },
-      { "to": "company35", "timePrice": 450 }
+      { "to": "company28", "timePrice": 42 },
+      { "to": "company33", "timePrice": 42 },
+      { "to": "company34", "timePrice": 25 },
+      { "to": "company35", "timePrice": 45 }
     ],
     "company31": [
-      { "to": "company28", "timePrice": 870 },
-      { "to": "company33", "timePrice": 190 },
-      { "to": "company3", "timePrice": 1110 },
-      { "to": "company2", "timePrice": 350 }
+      { "to": "company28", "timePrice": 87 },
+      { "to": "company33", "timePrice": 19 },
+      { "to": "company3", "timePrice": 111 }
     ],
     "company33": [
-      { "to": "company31", "timePrice": 190 },
-      { "to": "company32", "timePrice": 420 },
+      { "to": "company31", "timePrice": 19 },
+      { "to": "company32", "timePrice": 42 },
       { "to": "company33", "timePrice": 0 },
-      { "to": "company34", "timePrice": 350 }
+      { "to": "company34", "timePrice": 35 }
     ],
     "company34": [
-      { "to": "company33", "timePrice": 350 },
-      { "to": "company32", "timePrice": 250 },
-      { "to": "company35", "timePrice": 380 },
-      { "to": "company30", "timePrice": 410 }
+      { "to": "company33", "timePrice": 35 },
+      { "to": "company32", "timePrice": 25 },
+      { "to": "company35", "timePrice": 38 },
+      { "to": "company30", "timePrice": 41 }
     ],
     "company35": [
-      { "to": "company32", "timePrice": 450 },
-      { "to": "company34", "timePrice": 380 },
-      { "to": "company30", "timePrice": 240 }
+      { "to": "company32", "timePrice": 45 },
+      { "to": "company34", "timePrice": 38 },
+      { "to": "company30", "timePrice": 24 }
     ],
     "company30": [
-      { "to": "company35", "timePrice": 240 },
-      { "to": "company34", "timePrice": 410 }
+      { "to": "company35", "timePrice": 24 },
+      { "to": "company34", "timePrice": 41 }
     ],
     "company60": [
-      { "to": "company26", "timePrice": 730 },
-      { "to": "company39", "timePrice": 900 },
-      { "to": "company25", "timePrice": 890 }
+      { "to": "company26", "timePrice": 73 },
+      { "to": "company39", "timePrice": 90 },
+      { "to": "company25", "timePrice": 89 }
     ]
   }
 }
