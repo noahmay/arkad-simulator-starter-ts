@@ -1,405 +1,407 @@
 {
   "nodes": {
-    "company0": { "name": "Zircona", "swag": 442, "timePrice": 23 },
-    "company1": { "name": "Mooncoin", "swag": 444, "timePrice": 278 },
-    "company2": { "name": "TeleØ", "swag": 52, "timePrice": 264 },
-    "company3": { "name": "SjønEnterprises", "swag": 195, "timePrice": 132 },
-    "company4": { "name": "Bludex", "swag": 352, "timePrice": 1 },
-    "company5": { "name": "Nuxxcoin", "swag": 238, "timePrice": 205 },
-    "company6": { "name": "Algooin", "swag": 160, "timePrice": 240 },
-    "company7": { "name": "Wagoner", "swag": 236, "timePrice": 193 },
-    "company8": { "name": "Dovu", "swag": 113, "timePrice": 1 },
-    "company9": { "name": "aircar", "swag": 52, "timePrice": 96 },
-    "company10": { "name": "StarkIndustries", "swag": 80, "timePrice": 156 },
-    "company11": { "name": "SwiftWheels", "swag": 27, "timePrice": 189 },
-    "company12": { "name": "Tryckeriet", "swag": 91, "timePrice": 165 },
-    "company13": { "name": "Jardan", "swag": 100, "timePrice": 89 },
-    "company14": { "name": "Spera", "swag": 461, "timePrice": 211 },
-    "company15": { "name": "skylane", "swag": 280, "timePrice": 63 },
-    "company16": { "name": "Vexor", "swag": 413, "timePrice": 100 },
-    "company17": { "name": "Suvium", "swag": 84, "timePrice": 19 },
-    "company18": { "name": "VodPod", "swag": 418, "timePrice": 213 },
-    "company19": { "name": "RivalCar", "swag": 324, "timePrice": 145 },
-    "company20": { "name": "BadCorp", "swag": 98, "timePrice": 297 },
-    "company21": { "name": "Synergics", "swag": 187, "timePrice": 163 },
-    "company22": { "name": "SAASINC", "swag": 75, "timePrice": 91 },
-    "company23": { "name": "Raspi", "swag": 431, "timePrice": 231 },
-    "company24": { "name": "Jovex", "swag": 132, "timePrice": 54 },
-    "company25": { "name": "VALKAR", "swag": 419, "timePrice": 37 },
-    "company26": { "name": "ALPINO", "swag": 327, "timePrice": 223 },
-    "company27": { "name": "CriptoMoney", "swag": 1, "timePrice": 189 },
-    "company28": { "name": "Celldex", "swag": 435, "timePrice": 143 },
-    "company29": { "name": "SmartBillion", "swag": 317, "timePrice": 61 },
-    "company30": { "name": "TechEcho", "swag": 479, "timePrice": 220 },
-    "company31": { "name": "OpenEnterprise", "swag": 246, "timePrice": 52 },
-    "company32": { "name": "Coggen", "swag": 265, "timePrice": 23 },
-    "company33": { "name": "CloudSaas", "swag": 148, "timePrice": 208 },
-    "company34": { "name": "CloudCompany", "swag": 81, "timePrice": 54 },
-    "company35": { "name": "Locus", "swag": 357, "timePrice": 286 },
-    "company36": { "name": "Avastr", "swag": 233, "timePrice": 107 },
-    "company37": { "name": "Istex", "swag": 233, "timePrice": 73 },
-    "company38": { "name": "aark", "swag": 64, "timePrice": 33 },
-    "company39": { "name": "YouKnowIt", "swag": 438, "timePrice": 271 },
-    "company40": { "name": "NoBlox", "swag": 316, "timePrice": 226 },
-    "company41": { "name": "eoff", "swag": 264, "timePrice": 27 },
-    "company42": { "name": "PetraTack", "swag": 36, "timePrice": 77 },
-    "company43": { "name": "Eriksdottir", "swag": 282, "timePrice": 19 },
-    "company44": { "name": "QTH", "swag": 454, "timePrice": 148 },
-    "company45": { "name": "Tele7", "swag": 131, "timePrice": 145 },
-    "company46": { "name": "NetWorks", "swag": 421, "timePrice": 289 },
-    "company47": { "name": "Wer", "swag": 64, "timePrice": 194 },
-    "company48": { "name": "AglieSoft", "swag": 139, "timePrice": 49 },
-    "company49": { "name": "BigCorp", "swag": 256, "timePrice": 195 },
-    "company50": { "name": "MarkusMjukvara", "swag": 108, "timePrice": 280 },
-    "company51": { "name": "BossesBilar", "swag": 240, "timePrice": 164 },
-    "company52": { "name": "StinaSystems", "swag": 367, "timePrice": 285 },
-    "company53": { "name": "ClaraCloud", "swag": 76, "timePrice": 274 },
-    "company54": { "name": "IngvarInfoSys", "swag": 151, "timePrice": 281 },
-    "company55": { "name": "WonkaIndustries", "swag": 43, "timePrice": 249 },
-    "company56": { "name": "Neo4j", "swag": 476, "timePrice": 44 },
-    "company57": { "name": "WaynesEnterprises", "swag": 382, "timePrice": 228 },
-    "company58": { "name": "Yearin", "swag": 126, "timePrice": 297 },
-    "company59": { "name": "BioKek", "swag": 222, "timePrice": 86 },
-    "company60": { "name": "FinHigh", "swag": 472, "timePrice": 156 },
-    "company61": { "name": "BöterBolaget", "swag": 456, "timePrice": 191 }
+    "company0": { "name": "Zircona", "swag": 163, "timePrice": 73 },
+    "company1": { "name": "Mooncoin", "swag": 405, "timePrice": 42 },
+    "company2": { "name": "TeleØ", "swag": 8, "timePrice": 249 },
+    "company3": { "name": "SjønEnterprises", "swag": 123, "timePrice": 133 },
+    "company4": { "name": "Bludex", "swag": 269, "timePrice": 31 },
+    "company5": { "name": "Neo4j", "swag": 500, "timePrice": 121 },
+    "company6": { "name": "Algooin", "swag": 36, "timePrice": 283 },
+    "company7": { "name": "Wagoner", "swag": 26, "timePrice": 95 },
+    "company8": { "name": "Dovu", "swag": 509, "timePrice": 322 },
+    "company9": { "name": "aircar", "swag": 57, "timePrice": 168 },
+    "company10": { "name": "StarkIndustries", "swag": 249, "timePrice": 318 },
+    "company11": { "name": "SwiftWheels", "swag": 324, "timePrice": 214 },
+    "company12": { "name": "Tryckeriet", "swag": 118, "timePrice": 90 },
+    "company13": { "name": "Jardan", "swag": 525, "timePrice": 85 },
+    "company14": { "name": "Spera", "swag": 336, "timePrice": 368 },
+    "company15": { "name": "skylane", "swag": 239, "timePrice": 311 },
+    "company16": { "name": "Vexor", "swag": 326, "timePrice": 198 },
+    "company17": { "name": "Suvium", "swag": 104, "timePrice": 147 },
+    "company18": { "name": "VodPod", "swag": 335, "timePrice": 386 },
+    "company19": { "name": "RivalCar", "swag": 120, "timePrice": 132 },
+    "company20": { "name": "BadCorp", "swag": 31, "timePrice": 342 },
+    "company21": { "name": "Synergics", "swag": 477, "timePrice": 391 },
+    "company22": { "name": "SAASINC", "swag": 467, "timePrice": 58 },
+    "company23": { "name": "Raspi", "swag": 485, "timePrice": 355 },
+    "company24": { "name": "Jovex", "swag": 198, "timePrice": 305 },
+    "company25": { "name": "VALKAR", "swag": 99, "timePrice": 277 },
+    "company26": { "name": "ALPINO", "swag": 282, "timePrice": 137 },
+    "company27": { "name": "CriptoMoney", "swag": 353, "timePrice": 278 },
+    "company28": { "name": "Celldex", "swag": 55, "timePrice": 268 },
+    "company29": { "name": "SmartBillion", "swag": 186, "timePrice": 74 },
+    "company30": { "name": "TechEcho", "swag": 388, "timePrice": 25 },
+    "company31": { "name": "OpenEnterprise", "swag": 23, "timePrice": 129 },
+    "company32": { "name": "Coggen", "swag": 442, "timePrice": 193 },
+    "company33": { "name": "CloudSaas", "swag": 450, "timePrice": 370 },
+    "company34": { "name": "CloudCompany", "swag": 201, "timePrice": 161 },
+    "company35": { "name": "Locus", "swag": 165, "timePrice": 399 },
+    "company36": { "name": "Avastr", "swag": 385, "timePrice": 30 },
+    "company37": { "name": "Istex", "swag": 96, "timePrice": 376 },
+    "company38": { "name": "aark", "swag": 496, "timePrice": 364 },
+    "company39": { "name": "YouKnowIt", "swag": 174, "timePrice": 81 },
+    "company40": { "name": "NoBlox", "swag": 463, "timePrice": 248 },
+    "company41": { "name": "eoff", "swag": 255, "timePrice": 364 },
+    "company42": { "name": "PetraTack", "swag": 12, "timePrice": 339 },
+    "company43": { "name": "Eriksdottir", "swag": 391, "timePrice": 278 },
+    "company44": { "name": "QTH", "swag": 339, "timePrice": 322 },
+    "company45": { "name": "Tele7", "swag": 316, "timePrice": 329 },
+    "company46": { "name": "NetWorks", "swag": 476, "timePrice": 247 },
+    "company47": { "name": "Wer", "swag": 465, "timePrice": 151 },
+    "company48": { "name": "AglieSoft", "swag": 365, "timePrice": 133 },
+    "company49": { "name": "BigCorp", "swag": 211, "timePrice": 156 },
+    "company50": { "name": "MarkusMjukvara", "swag": 307, "timePrice": 320 },
+    "company51": { "name": "BossesBilar", "swag": 223, "timePrice": 156 },
+    "company52": { "name": "StinaSystems", "swag": 227, "timePrice": 350 },
+    "company53": { "name": "ClaraCloud", "swag": 413, "timePrice": 271 },
+    "company54": { "name": "IngvarInfoSys", "swag": 274, "timePrice": 254 },
+    "company55": { "name": "WonkaIndustries", "swag": 334, "timePrice": 203 },
+    "company56": { "name": "Nuxxcoin", "swag": 40, "timePrice": 111 },
+    "company57": { "name": "WaynesEnterprises", "swag": 246, "timePrice": 88 },
+    "company58": { "name": "Yearin", "swag": 489, "timePrice": 152 },
+    "company59": { "name": "BioKek", "swag": 192, "timePrice": 257 },
+    "company60": { "name": "FinHigh", "swag": 125, "timePrice": 238 },
+    "company61": { "name": "BöterBolaget", "swag": 451, "timePrice": 185 }
   },
   "relationships": {
     "company45": [
-      { "to": "company46", "timePrice": 67 },
-      { "to": "company53", "timePrice": 37 },
-      { "to": "company61", "timePrice": 85 }
+      { "to": "company46", "timePrice": 670 },
+      { "to": "company53", "timePrice": 370 },
+      { "to": "company61", "timePrice": 850 }
     ],
     "company46": [
-      { "to": "company45", "timePrice": 67 },
-      { "to": "company53", "timePrice": 45 },
-      { "to": "company47", "timePrice": 36 }
+      { "to": "company45", "timePrice": 670 },
+      { "to": "company53", "timePrice": 450 },
+      { "to": "company47", "timePrice": 360 }
     ],
     "company53": [
-      { "to": "company46", "timePrice": 45 },
-      { "to": "company45", "timePrice": 37 },
-      { "to": "company47", "timePrice": 53 }
+      { "to": "company46", "timePrice": 450 },
+      { "to": "company45", "timePrice": 370 },
+      { "to": "company47", "timePrice": 530 }
     ],
     "company47": [
-      { "to": "company46", "timePrice": 36 },
-      { "to": "company48", "timePrice": 39 },
-      { "to": "company51", "timePrice": 57 },
-      { "to": "company53", "timePrice": 53 }
+      { "to": "company46", "timePrice": 360 },
+      { "to": "company48", "timePrice": 390 },
+      { "to": "company51", "timePrice": 570 },
+      { "to": "company53", "timePrice": 530 }
     ],
     "company48": [
-      { "to": "company47", "timePrice": 39 },
-      { "to": "company49", "timePrice": 37 },
-      { "to": "company50", "timePrice": 74 },
-      { "to": "company51", "timePrice": 79 }
+      { "to": "company47", "timePrice": 390 },
+      { "to": "company49", "timePrice": 370 },
+      { "to": "company50", "timePrice": 740 },
+      { "to": "company51", "timePrice": 790 }
     ],
     "company49": [
-      { "to": "company48", "timePrice": 37 },
-      { "to": "company50", "timePrice": 60 }
+      { "to": "company48", "timePrice": 370 },
+      { "to": "company50", "timePrice": 600 }
     ],
     "company50": [
-      { "to": "company49", "timePrice": 60 },
-      { "to": "company51", "timePrice": 123 },
-      { "to": "company48", "timePrice": 74 }
+      { "to": "company49", "timePrice": 600 },
+      { "to": "company51", "timePrice": 1230 },
+      { "to": "company48", "timePrice": 740 }
     ],
     "company51": [
-      { "to": "company50", "timePrice": 123 },
-      { "to": "company47", "timePrice": 57 },
-      { "to": "company48", "timePrice": 79 },
-      { "to": "company59", "timePrice": 47 }
+      { "to": "company50", "timePrice": 1230 },
+      { "to": "company47", "timePrice": 570 },
+      { "to": "company48", "timePrice": 790 },
+      { "to": "company59", "timePrice": 470 }
     ],
     "company61": [
-      { "to": "company45", "timePrice": 85 },
-      { "to": "company12", "timePrice": 52 },
-      { "to": "company13", "timePrice": 53 },
-      { "to": "company14", "timePrice": 80 },
-      { "to": "company11", "timePrice": 71 },
-      { "to": "company42", "timePrice": 175 }
+      { "to": "company45", "timePrice": 850 },
+      { "to": "company12", "timePrice": 520 },
+      { "to": "company13", "timePrice": 530 },
+      { "to": "company14", "timePrice": 800 },
+      { "to": "company11", "timePrice": 710 },
+      { "to": "company42", "timePrice": 1750 }
     ],
     "company12": [
-      { "to": "company61", "timePrice": 52 },
-      { "to": "company5", "timePrice": 41 },
-      { "to": "company13", "timePrice": 29 }
+      { "to": "company61", "timePrice": 520 },
+      { "to": "company5", "timePrice": 410 },
+      { "to": "company13", "timePrice": 290 }
     ],
     "company13": [
-      { "to": "company61", "timePrice": 53 },
-      { "to": "company5", "timePrice": 55 },
-      { "to": "company14", "timePrice": 35 },
-      { "to": "company12", "timePrice": 29 }
+      { "to": "company61", "timePrice": 530 },
+      { "to": "company5", "timePrice": 550 },
+      { "to": "company14", "timePrice": 350 },
+      { "to": "company12", "timePrice": 290 }
     ],
     "company14": [
-      { "to": "company61", "timePrice": 80 },
-      { "to": "company13", "timePrice": 35 },
-      { "to": "company6", "timePrice": 45 },
-      { "to": "company18", "timePrice": 26 },
-      { "to": "company17", "timePrice": 33 },
-      { "to": "company41", "timePrice": 107 }
+      { "to": "company61", "timePrice": 800 },
+      { "to": "company13", "timePrice": 350 },
+      { "to": "company6", "timePrice": 450 },
+      { "to": "company18", "timePrice": 260 },
+      { "to": "company17", "timePrice": 330 },
+      { "to": "company41", "timePrice": 1070 }
     ],
     "company11": [
-      { "to": "company61", "timePrice": 71 },
-      { "to": "company56", "timePrice": 30 }
+      { "to": "company61", "timePrice": 710 },
+      { "to": "company56", "timePrice": 300 }
     ],
     "company42": [
-      { "to": "company61", "timePrice": 175 },
-      { "to": "company41", "timePrice": 31 },
-      { "to": "company54", "timePrice": 39 }
+      { "to": "company61", "timePrice": 1750 },
+      { "to": "company41", "timePrice": 310 },
+      { "to": "company54", "timePrice": 390 }
     ],
     "company59": [
-      { "to": "company51", "timePrice": 47 },
-      { "to": "company1", "timePrice": 40 },
-      { "to": "company2", "timePrice": 76 },
-      { "to": "company3", "timePrice": 89 },
-      { "to": "company57", "timePrice": 108 }
+      { "to": "company51", "timePrice": 470 },
+      { "to": "company1", "timePrice": 400 },
+      { "to": "company2", "timePrice": 760 },
+      { "to": "company3", "timePrice": 890 },
+      { "to": "company57", "timePrice": 1080 }
     ],
     "company1": [
-      { "to": "company59", "timePrice": 40 },
-      { "to": "company0", "timePrice": 14 }
+      { "to": "company59", "timePrice": 400 },
+      { "to": "company0", "timePrice": 140 }
     ],
-    "company0": [{ "to": "company1", "timePrice": 14 }],
+    "company0": [{ "to": "company1", "timePrice": 140 }],
     "company2": [
-      { "to": "company59", "timePrice": 76 },
-      { "to": "company3", "timePrice": 35 }
+      { "to": "company59", "timePrice": 760 },
+      { "to": "company3", "timePrice": 350 },
+      { "to": "company31", "timePrice": 350 }
     ],
     "company3": [
-      { "to": "company2", "timePrice": 35 },
-      { "to": "company57", "timePrice": 73 },
-      { "to": "company59", "timePrice": 89 },
-      { "to": "company31", "timePrice": 111 }
+      { "to": "company2", "timePrice": 350 },
+      { "to": "company57", "timePrice": 730 },
+      { "to": "company59", "timePrice": 890 },
+      { "to": "company31", "timePrice": 1110 }
     ],
     "company57": [
-      { "to": "company3", "timePrice": 73 },
-      { "to": "company59", "timePrice": 108 },
-      { "to": "company9", "timePrice": 49 },
-      { "to": "company8", "timePrice": 53 },
-      { "to": "company4", "timePrice": 60 },
-      { "to": "company56", "timePrice": 74 },
-      { "to": "company22", "timePrice": 58 },
-      { "to": "company21", "timePrice": 61 },
-      { "to": "company29", "timePrice": 109 }
+      { "to": "company3", "timePrice": 730 },
+      { "to": "company59", "timePrice": 1080 },
+      { "to": "company9", "timePrice": 490 },
+      { "to": "company8", "timePrice": 530 },
+      { "to": "company4", "timePrice": 600 },
+      { "to": "company56", "timePrice": 740 },
+      { "to": "company22", "timePrice": 580 },
+      { "to": "company21", "timePrice": 610 },
+      { "to": "company29", "timePrice": 1090 }
     ],
     "company9": [
-      { "to": "company57", "timePrice": 49 },
-      { "to": "company4", "timePrice": 35 },
-      { "to": "company8", "timePrice": 19 },
-      { "to": "company5", "timePrice": 27 },
-      { "to": "company10", "timePrice": 18 }
+      { "to": "company57", "timePrice": 490 },
+      { "to": "company4", "timePrice": 350 },
+      { "to": "company8", "timePrice": 190 },
+      { "to": "company5", "timePrice": 270 },
+      { "to": "company10", "timePrice": 180 }
     ],
     "company8": [
-      { "to": "company57", "timePrice": 53 },
-      { "to": "company9", "timePrice": 19 },
-      { "to": "company10", "timePrice": 13 },
-      { "to": "company7", "timePrice": 41 },
-      { "to": "company6", "timePrice": 25 }
+      { "to": "company57", "timePrice": 530 },
+      { "to": "company9", "timePrice": 190 },
+      { "to": "company10", "timePrice": 130 },
+      { "to": "company7", "timePrice": 410 },
+      { "to": "company6", "timePrice": 250 }
     ],
     "company4": [
-      { "to": "company57", "timePrice": 60 },
-      { "to": "company56", "timePrice": 17 },
-      { "to": "company9", "timePrice": 35 },
-      { "to": "company5", "timePrice": 18 }
+      { "to": "company57", "timePrice": 600 },
+      { "to": "company56", "timePrice": 170 },
+      { "to": "company9", "timePrice": 350 },
+      { "to": "company5", "timePrice": 180 }
     ],
     "company56": [
-      { "to": "company57", "timePrice": 74 },
-      { "to": "company4", "timePrice": 17 },
-      { "to": "company11", "timePrice": 30 }
+      { "to": "company57", "timePrice": 740 },
+      { "to": "company4", "timePrice": 170 },
+      { "to": "company11", "timePrice": 300 }
     ],
     "company5": [
-      { "to": "company4", "timePrice": 18 },
-      { "to": "company9", "timePrice": 27 },
-      { "to": "company10", "timePrice": 29 },
-      { "to": "company12", "timePrice": 41 },
-      { "to": "company13", "timePrice": 55 }
+      { "to": "company4", "timePrice": 180 },
+      { "to": "company9", "timePrice": 270 },
+      { "to": "company10", "timePrice": 290 },
+      { "to": "company12", "timePrice": 410 },
+      { "to": "company13", "timePrice": 550 }
     ],
     "company10": [
-      { "to": "company5", "timePrice": 29 },
-      { "to": "company8", "timePrice": 13 },
-      { "to": "company9", "timePrice": 18 },
-      { "to": "company6", "timePrice": 24 }
+      { "to": "company5", "timePrice": 290 },
+      { "to": "company8", "timePrice": 130 },
+      { "to": "company9", "timePrice": 180 },
+      { "to": "company6", "timePrice": 240 }
     ],
     "company6": [
-      { "to": "company10", "timePrice": 24 },
-      { "to": "company8", "timePrice": 25 },
-      { "to": "company7", "timePrice": 22 },
-      { "to": "company14", "timePrice": 45 }
+      { "to": "company10", "timePrice": 240 },
+      { "to": "company8", "timePrice": 250 },
+      { "to": "company7", "timePrice": 220 },
+      { "to": "company14", "timePrice": 450 }
     ],
     "company7": [
-      { "to": "company8", "timePrice": 41 },
-      { "to": "company6", "timePrice": 22 },
-      { "to": "company17", "timePrice": 26 },
-      { "to": "company15", "timePrice": 29 }
+      { "to": "company8", "timePrice": 410 },
+      { "to": "company6", "timePrice": 220 },
+      { "to": "company17", "timePrice": 260 },
+      { "to": "company15", "timePrice": 290 }
     ],
     "company17": [
-      { "to": "company7", "timePrice": 26 },
-      { "to": "company18", "timePrice": 12 },
-      { "to": "company14", "timePrice": 33 },
-      { "to": "company16", "timePrice": 20 }
+      { "to": "company7", "timePrice": 260 },
+      { "to": "company18", "timePrice": 120 },
+      { "to": "company14", "timePrice": 330 },
+      { "to": "company16", "timePrice": 200 }
     ],
     "company15": [
-      { "to": "company7", "timePrice": 29 },
-      { "to": "company18", "timePrice": 26 },
-      { "to": "company16", "timePrice": 18 }
+      { "to": "company7", "timePrice": 290 },
+      { "to": "company18", "timePrice": 260 },
+      { "to": "company16", "timePrice": 180 }
     ],
     "company18": [
-      { "to": "company17", "timePrice": 12 },
-      { "to": "company14", "timePrice": 26 },
-      { "to": "company15", "timePrice": 26 }
+      { "to": "company17", "timePrice": 120 },
+      { "to": "company14", "timePrice": 260 },
+      { "to": "company15", "timePrice": 260 }
     ],
     "company16": [
-      { "to": "company15", "timePrice": 18 },
-      { "to": "company17", "timePrice": 20 }
+      { "to": "company15", "timePrice": 180 },
+      { "to": "company17", "timePrice": 200 }
     ],
     "company22": [
-      { "to": "company57", "timePrice": 58 },
-      { "to": "company23", "timePrice": 10 },
-      { "to": "company21", "timePrice": 18 }
+      { "to": "company57", "timePrice": 580 },
+      { "to": "company23", "timePrice": 100 },
+      { "to": "company21", "timePrice": 180 }
     ],
     "company21": [
-      { "to": "company57", "timePrice": 61 },
-      { "to": "company20", "timePrice": 17 },
-      { "to": "company22", "timePrice": 18 }
+      { "to": "company57", "timePrice": 610 },
+      { "to": "company20", "timePrice": 170 },
+      { "to": "company22", "timePrice": 180 }
     ],
     "company23": [
-      { "to": "company22", "timePrice": 10 },
-      { "to": "company24", "timePrice": 15 },
-      { "to": "company25", "timePrice": 23 },
-      { "to": "company19", "timePrice": 27 },
-      { "to": "company20", "timePrice": 37 }
+      { "to": "company22", "timePrice": 100 },
+      { "to": "company24", "timePrice": 150 },
+      { "to": "company25", "timePrice": 230 },
+      { "to": "company19", "timePrice": 270 },
+      { "to": "company20", "timePrice": 370 }
     ],
     "company20": [
-      { "to": "company21", "timePrice": 17 },
-      { "to": "company19", "timePrice": 13 },
-      { "to": "company23", "timePrice": 37 }
+      { "to": "company21", "timePrice": 170 },
+      { "to": "company19", "timePrice": 130 },
+      { "to": "company23", "timePrice": 370 }
     ],
     "company19": [
-      { "to": "company20", "timePrice": 13 },
-      { "to": "company25", "timePrice": 12 },
-      { "to": "company23", "timePrice": 27 }
+      { "to": "company20", "timePrice": 130 },
+      { "to": "company25", "timePrice": 120 },
+      { "to": "company23", "timePrice": 270 }
     ],
     "company25": [
-      { "to": "company19", "timePrice": 12 },
-      { "to": "company24", "timePrice": 16 },
-      { "to": "company23", "timePrice": 23 },
-      { "to": "company36", "timePrice": 73 },
-      { "to": "company44", "timePrice": 143 },
-      { "to": "company60", "timePrice": 89 }
+      { "to": "company19", "timePrice": 120 },
+      { "to": "company24", "timePrice": 160 },
+      { "to": "company23", "timePrice": 230 },
+      { "to": "company36", "timePrice": 730 },
+      { "to": "company44", "timePrice": 1430 },
+      { "to": "company60", "timePrice": 890 }
     ],
     "company24": [
-      { "to": "company25", "timePrice": 16 },
-      { "to": "company23", "timePrice": 15 }
+      { "to": "company25", "timePrice": 160 },
+      { "to": "company23", "timePrice": 150 }
     ],
     "company36": [
-      { "to": "company25", "timePrice": 73 },
-      { "to": "company37", "timePrice": 28 },
-      { "to": "company39", "timePrice": 27 }
+      { "to": "company25", "timePrice": 730 },
+      { "to": "company37", "timePrice": 280 },
+      { "to": "company39", "timePrice": 270 }
     ],
     "company37": [
-      { "to": "company36", "timePrice": 28 },
-      { "to": "company39", "timePrice": 26 },
-      { "to": "company38", "timePrice": 68 },
-      { "to": "company44", "timePrice": 105 }
+      { "to": "company36", "timePrice": 280 },
+      { "to": "company39", "timePrice": 260 },
+      { "to": "company38", "timePrice": 680 },
+      { "to": "company44", "timePrice": 1050 }
     ],
     "company39": [
-      { "to": "company37", "timePrice": 26 },
-      { "to": "company38", "timePrice": 66 },
-      { "to": "company36", "timePrice": 27 },
-      { "to": "company60", "timePrice": 90 }
+      { "to": "company37", "timePrice": 260 },
+      { "to": "company38", "timePrice": 660 },
+      { "to": "company36", "timePrice": 270 },
+      { "to": "company60", "timePrice": 900 }
     ],
     "company38": [
-      { "to": "company39", "timePrice": 66 },
-      { "to": "company52", "timePrice": 120 },
-      { "to": "company37", "timePrice": 68 }
+      { "to": "company39", "timePrice": 660 },
+      { "to": "company52", "timePrice": 1200 },
+      { "to": "company37", "timePrice": 680 }
     ],
     "company52": [
-      { "to": "company38", "timePrice": 120 },
-      { "to": "company44", "timePrice": 44 },
-      { "to": "company40", "timePrice": 46 }
+      { "to": "company38", "timePrice": 1200 },
+      { "to": "company44", "timePrice": 440 },
+      { "to": "company40", "timePrice": 460 }
     ],
     "company44": [
-      { "to": "company44", "timePrice": 2 },
-      { "to": "company37", "timePrice": 105 },
-      { "to": "company52", "timePrice": 44 },
-      { "to": "company25", "timePrice": 143 },
-      { "to": "company41", "timePrice": 61 },
-      { "to": "company55", "timePrice": 50 }
+      { "to": "company44", "timePrice": 20 },
+      { "to": "company37", "timePrice": 1050 },
+      { "to": "company52", "timePrice": 440 },
+      { "to": "company25", "timePrice": 1430 },
+      { "to": "company41", "timePrice": 610 },
+      { "to": "company55", "timePrice": 500 }
     ],
     "company41": [
-      { "to": "company44", "timePrice": 61 },
-      { "to": "company42", "timePrice": 31 },
-      { "to": "company14", "timePrice": 107 }
+      { "to": "company44", "timePrice": 610 },
+      { "to": "company42", "timePrice": 310 },
+      { "to": "company14", "timePrice": 1070 }
     ],
     "company55": [
-      { "to": "company44", "timePrice": 50 },
-      { "to": "company43", "timePrice": 32 },
-      { "to": "company54", "timePrice": 38 }
+      { "to": "company44", "timePrice": 500 },
+      { "to": "company43", "timePrice": 320 },
+      { "to": "company54", "timePrice": 380 }
     ],
     "company40": [
-      { "to": "company52", "timePrice": 46 },
-      { "to": "company43", "timePrice": 53 }
+      { "to": "company52", "timePrice": 460 },
+      { "to": "company43", "timePrice": 530 }
     ],
     "company43": [
-      { "to": "company40", "timePrice": 53 },
-      { "to": "company55", "timePrice": 32 }
+      { "to": "company40", "timePrice": 530 },
+      { "to": "company55", "timePrice": 320 }
     ],
     "company54": [
-      { "to": "company55", "timePrice": 38 },
-      { "to": "company42", "timePrice": 39 }
+      { "to": "company55", "timePrice": 380 },
+      { "to": "company42", "timePrice": 390 }
     ],
     "company29": [
-      { "to": "company57", "timePrice": 109 },
-      { "to": "company28", "timePrice": 25 },
-      { "to": "company27", "timePrice": 37 }
+      { "to": "company57", "timePrice": 1090 },
+      { "to": "company28", "timePrice": 250 },
+      { "to": "company27", "timePrice": 370 }
     ],
     "company28": [
-      { "to": "company29", "timePrice": 25 },
-      { "to": "company26", "timePrice": 45 },
-      { "to": "company27", "timePrice": 20 },
-      { "to": "company32", "timePrice": 42 },
-      { "to": "company28", "timePrice": 18 },
-      { "to": "company31", "timePrice": 87 }
+      { "to": "company29", "timePrice": 250 },
+      { "to": "company26", "timePrice": 450 },
+      { "to": "company27", "timePrice": 200 },
+      { "to": "company32", "timePrice": 420 },
+      { "to": "company28", "timePrice": 180 },
+      { "to": "company31", "timePrice": 870 }
     ],
     "company26": [
-      { "to": "company28", "timePrice": 45 },
-      { "to": "company27", "timePrice": 36 },
-      { "to": "company60", "timePrice": 73 }
+      { "to": "company28", "timePrice": 450 },
+      { "to": "company27", "timePrice": 360 },
+      { "to": "company60", "timePrice": 730 }
     ],
     "company27": [
-      { "to": "company26", "timePrice": 36 },
-      { "to": "company28", "timePrice": 20 },
-      { "to": "company29", "timePrice": 37 }
+      { "to": "company26", "timePrice": 360 },
+      { "to": "company28", "timePrice": 200 },
+      { "to": "company29", "timePrice": 370 }
     ],
     "company32": [
-      { "to": "company28", "timePrice": 42 },
-      { "to": "company33", "timePrice": 42 },
-      { "to": "company34", "timePrice": 25 },
-      { "to": "company35", "timePrice": 45 }
+      { "to": "company28", "timePrice": 420 },
+      { "to": "company33", "timePrice": 420 },
+      { "to": "company34", "timePrice": 250 },
+      { "to": "company35", "timePrice": 450 }
     ],
     "company31": [
-      { "to": "company28", "timePrice": 87 },
-      { "to": "company33", "timePrice": 19 },
-      { "to": "company3", "timePrice": 111 }
+      { "to": "company28", "timePrice": 870 },
+      { "to": "company33", "timePrice": 190 },
+      { "to": "company3", "timePrice": 1110 },
+      { "to": "company2", "timePrice": 350 }
     ],
     "company33": [
-      { "to": "company31", "timePrice": 19 },
-      { "to": "company32", "timePrice": 42 },
+      { "to": "company31", "timePrice": 190 },
+      { "to": "company32", "timePrice": 420 },
       { "to": "company33", "timePrice": 0 },
-      { "to": "company34", "timePrice": 35 }
+      { "to": "company34", "timePrice": 350 }
     ],
     "company34": [
-      { "to": "company33", "timePrice": 35 },
-      { "to": "company32", "timePrice": 25 },
-      { "to": "company35", "timePrice": 38 },
-      { "to": "company30", "timePrice": 41 }
+      { "to": "company33", "timePrice": 350 },
+      { "to": "company32", "timePrice": 250 },
+      { "to": "company35", "timePrice": 380 },
+      { "to": "company30", "timePrice": 410 }
     ],
     "company35": [
-      { "to": "company32", "timePrice": 45 },
-      { "to": "company34", "timePrice": 38 },
-      { "to": "company30", "timePrice": 24 }
+      { "to": "company32", "timePrice": 450 },
+      { "to": "company34", "timePrice": 380 },
+      { "to": "company30", "timePrice": 240 }
     ],
     "company30": [
-      { "to": "company35", "timePrice": 24 },
-      { "to": "company34", "timePrice": 41 }
+      { "to": "company35", "timePrice": 240 },
+      { "to": "company34", "timePrice": 410 }
     ],
     "company60": [
-      { "to": "company26", "timePrice": 73 },
-      { "to": "company39", "timePrice": 90 },
-      { "to": "company25", "timePrice": 89 }
+      { "to": "company26", "timePrice": 730 },
+      { "to": "company39", "timePrice": 900 },
+      { "to": "company25", "timePrice": 890 }
     ]
   }
 }
